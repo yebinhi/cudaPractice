@@ -1,1 +1,1 @@
-# cudaPractise
+# cudaPractice
